@@ -1,5 +1,4 @@
 line 1 is here
-line 2 is 'master'
-edited by master
-
-
+<<<<<<< HEAD
+line 2 is 'master_kum'
+edited by master_kum
