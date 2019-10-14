@@ -1,4 +1,3 @@
 line 1 is here
-<<<<<<< HEAD
 line 2 is 'master_kum'
 edited by master_kum
